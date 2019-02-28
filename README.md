@@ -43,7 +43,7 @@ This code relies on the Matlab function
 [fca_readfcs.m](https://www.mathworks.com/matlabcentral/fileexchange/9608-fca_readfcs), which
 was written by Laszlo Balkay of the University of Debrecen.
 
-A preprint describing this work is available on [BioRxiv](https://www.biorxiv.org/content/early/2018/07/17/370650)
+A preprint describing this work is available on [BioRxiv](https://www.biorxiv.org/content/10.1101/370650v2)
 
 ## License
 These programs are released under the GNU General Public License version 3 or upper (GPLv3+).
